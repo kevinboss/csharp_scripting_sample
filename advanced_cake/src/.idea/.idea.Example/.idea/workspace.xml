@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e28e9b7d-8aaa-435e-9b00-c23bb4205fe2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../extension/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/Album.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/DiscountFilter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/bin/Debug/netcoreapp2.1/extension.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/bin/Debug/netcoreapp2.1/extension.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/bin/Debug/netcoreapp2.1/extension.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/bin/Debug/netcoreapp2.1/extension.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/bin/Debug/netcoreapp2.1/extension.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/extension.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/Debug/netcoreapp2.1/extension.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/extension.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/extension.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/extension.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extension/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/hello_world/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/hello_world/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/hello_world/helloworldservice.csx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/hello_world/main.csx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/hello_world/omnisharp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/scripting_api.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/scripting_api.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/obj/scripting_api.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripting_api/scripting_api.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/sample.csx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Example.Tests/AnimalTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Example/Animals/Dog.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1413" />
+    <option name="height" value="1455" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Example (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Example (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Example" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Example (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Example" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Animals" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Example (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Example.Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e28e9b7d-8aaa-435e-9b00-c23bb4205fe2" name="Default" comment="" />
+      <created>1530295045798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530295045798</updated>
+      <workItem from="1530295050351" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23235093" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Example/Animals/Dog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1530294608378" expanded="true" signature="25:155" ph="{...}" />
+            <marker date="1530294608378" expanded="true" signature="65:153" ph="{...}" />
+            <marker date="1530294608378" expanded="true" signature="100:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example.Tests/AnimalTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <marker date="1530294608049" expanded="false" signature="6:45" ph="..." />
+            <marker date="1530294608049" expanded="true" signature="70:648" ph="{...}" />
+            <marker date="1530294608049" expanded="true" signature="123:646" ph="{...}" />
+            <marker date="1530294608049" expanded="true" signature="186:384" ph="{...}" />
+            <marker date="1530294608049" expanded="true" signature="442:640" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

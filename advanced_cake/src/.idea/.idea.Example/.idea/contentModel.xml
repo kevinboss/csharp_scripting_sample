@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kevin\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Example.-142327836.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kevin\Repos\csharp_scripting_sample\advanced_cake\src" t="IncludeFlat">
+      <e p="Example" t="IncludeRecursive">
+        <e p="Animals" t="Include">
+          <e p="Cat.cs" t="Include" />
+          <e p="Dog.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Example.csproj" t="IncludeRecursive" />
+        <e p="IAnimal.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Example.sln" t="IncludeFlat" />
+      <e p="Example.Tests" t="IncludeRecursive">
+        <e p="AnimalTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Example.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

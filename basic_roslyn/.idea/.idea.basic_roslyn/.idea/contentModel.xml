@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="C:\Users\kevin\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_basic_roslyn.-1114976011.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn" t="IncludeRecursive">
+      <e p="basic_roslyn.csproj" t="IncludeRecursive" />
+      <e p="basic_roslyn.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="basic_roslyn.AssemblyInfo.cs" t="Include" />
+            <e p="basic_roslyn.Program.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UnitTest1.cs" t="Include" />
+    </e>
+  </component>
+</project>
