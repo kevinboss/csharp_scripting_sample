@@ -1,63 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b019b4-73d3-49af-a9d3-91ac252a439d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../extension/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/Album.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/DiscountFilter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/bin/Debug/netcoreapp2.1/extension.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/bin/Debug/netcoreapp2.1/extension.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/bin/Debug/netcoreapp2.1/extension.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/bin/Debug/netcoreapp2.1/extension.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/bin/Debug/netcoreapp2.1/extension.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/extension.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/Debug/netcoreapp2.1/extension.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/extension.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/extension.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/extension.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extension/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/bin/Debug/netcoreapp2.1/scripting_api.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/hello_world/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/hello_world/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/hello_world/helloworldservice.csx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/hello_world/main.csx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/hello_world/omnisharp.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/Debug/netcoreapp2.1/scripting_api.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/scripting_api.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/scripting_api.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/obj/scripting_api.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripting_api/scripting_api.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scripts/sample.csx" beforeDir="false" />
+    <list default="true" id="edb59ba1-86aa-4f15-9c13-5a81111ea284" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_konfiguration.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_konfiguration.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_konfiguration.sln" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_konfiguration.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/basic_roslyn.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/basic_roslyn.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/basic_roslyn.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/basic_roslyn.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,7 +47,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx" />
+        <option value="$PROJECT_DIR$/../shared/ScriptExecutor.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/PizzaPriceCalculator/Solution.csx" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -86,7 +71,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
-    <option name="width" value="1413" />
+    <option name="width" value="1149" />
     <option name="height" value="1455" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,12 +85,23 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="advanced_konfiguration (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="advanced_konfiguration (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="advanced_konfiguration" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="advanced_konfiguration" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PizzaPriceCalculator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -119,7 +115,6 @@
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,22 +128,38 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/advanced_konfiguration.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1b019b4-73d3-49af-a9d3-91ac252a439d" name="Default" comment="" />
-      <created>1530296070498</created>
+      <changelist id="edb59ba1-86aa-4f15-9c13-5a81111ea284" name="Default" comment="" />
+      <created>1530475583237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1530296070498</updated>
-      <workItem from="1530296075071" duration="34000" />
+      <updated>1530475583237</updated>
+      <workItem from="1530475589001" duration="2450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34000" />
+    <option name="totallyTimeSpent" value="2450000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,24 +174,26 @@
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" weight="0.32967785" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003427" side_tool="true" weight="0.37898466" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" weight="0.37898466" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25359836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25359836" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.3293979" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -194,10 +207,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UnitTest1.cs">
+    <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1530476676988" expanded="true" signature="6:235" ph="..." />
+            <marker date="1530476676988" expanded="true" signature="253:3844" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="294:3842" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="418:1034" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="917:982" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="1138:1446" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="1526:1727" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="1802:2051" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="2130:3110" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="2262:2948" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="2338:2934" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="2598:2799" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="3003:3099" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="3200:3699" ph="{...}" />
+            <marker date="1530476676988" expanded="true" signature="3740:3836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution.csx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1530477278329" expanded="false" signature="6:44" ph="..." />
+            <marker date="1530477278329" expanded="true" signature="78:1191" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="98:1076" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="224:1070" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="259:1060" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="489:590" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="684:1046" ph="{...}" />
+            <marker date="1530477278329" expanded="true" signature="1109:1189" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

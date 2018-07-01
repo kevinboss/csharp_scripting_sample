@@ -1,0 +1,11 @@
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\bin\Debug\netcoreapp2.1\basic_roslyn.deps.json
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\bin\Debug\netcoreapp2.1\basic_roslyn.runtimeconfig.json
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\bin\Debug\netcoreapp2.1\basic_roslyn.runtimeconfig.dev.json
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\bin\Debug\netcoreapp2.1\basic_roslyn.dll
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\bin\Debug\netcoreapp2.1\basic_roslyn.pdb
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.csprojAssemblyReference.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.AssemblyInfoInputs.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.AssemblyInfo.cs
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.dll
+C:\Users\kevin\Repos\csharp_scripting_sample\basic_roslyn\obj\Debug\netcoreapp2.1\basic_roslyn.pdb

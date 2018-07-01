@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
-    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
-    <e p="C:\Users\kevin\.nuget\packages\mstest.testadapter\1.2.1\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
-    <e p="C:\Users\kevin\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_advanced_konfiguration.1809919573.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kevin\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_advanced_konfiguration.1809919573.00" t="ExcludeRecursive" />
     <e p="C:\Users\kevin\Repos\csharp_scripting_sample\advanced_konfiguration" t="IncludeRecursive">
       <e p="advanced_konfiguration.csproj" t="IncludeRecursive" />
       <e p="advanced_konfiguration.sln" t="IncludeFlat" />
@@ -13,12 +10,32 @@
         <e p="Debug" t="Include">
           <e p="netcoreapp2.1" t="Include">
             <e p="advanced_konfiguration.AssemblyInfo.cs" t="Include" />
-            <e p="advanced_konfiguration.Program.cs" t="Include" />
           </e>
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
-      <e p="UnitTest1.cs" t="Include" />
+      <e p="PizzaPriceCalculator" t="Include">
+        <e p="Solution.csx" t="Include" />
+        <e p="Solution2.csx" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\kevin\Repos\csharp_scripting_sample\shared" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="shared.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ScriptExecutor.cs" t="Include" />
+      <e p="ScriptFileManifest.cs" t="Include" />
+      <e p="ScriptFileManifestFactory.cs" t="Include" />
+      <e p="shared.csproj" t="IncludeRecursive" />
     </e>
   </component>
 </project>
