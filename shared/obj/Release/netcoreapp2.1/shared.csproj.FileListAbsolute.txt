@@ -1,0 +1,9 @@
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\bin\Release\netcoreapp2.1\shared.deps.json
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\bin\Release\netcoreapp2.1\shared.dll
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\bin\Release\netcoreapp2.1\shared.pdb
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.csprojAssemblyReference.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.AssemblyInfoInputs.cache
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.AssemblyInfo.cs
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.dll
+C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Release\netcoreapp2.1\shared.pdb

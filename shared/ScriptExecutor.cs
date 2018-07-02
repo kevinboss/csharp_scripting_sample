@@ -2,19 +2,22 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Reflection;
 using System.Threading.Tasks;
 using Dotnet.Script.Core;
 using Dotnet.Script.DependencyModel.Logging;
 using Dotnet.Script.DependencyModel.Runtime;
 using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.CSharp.Scripting;
 using Microsoft.CodeAnalysis.Text;
 
 namespace shared
 {
-    public static class ScriptExecutor
+    public class ScriptExecutor
     {
         private static bool LogVerbosityDebug = false;
         private static OptimizationLevel OptimizationLevel = Microsoft.CodeAnalysis.OptimizationLevel.Release;
+        private Assembly[] _references = new Assembly[0];
 
         static ScriptExecutor()
         {
@@ -29,14 +32,20 @@ namespace shared
             OptimizationLevel = OptimizationLevel.Debug;
         }
 
-        public static TReturnType Execute<TReturnType, TGlobalsType>(string scriptPath, TGlobalsType globals)
+        public TReturnType Execute<TReturnType, TGlobalsType>(string scriptPath, TGlobalsType globals)
         {
             var task = RunScript<TReturnType, TGlobalsType>(scriptPath, globals);
             task.Wait();
             return task.Result;
         }
 
-        private static async Task<TReturnType> RunScript<TReturnType, TGlobalsType>(string file,
+        public ScriptExecutor AddReferences(params Assembly[] references)
+        {
+            _references = references;
+            return this;
+        }
+
+        private async Task<TReturnType> RunScript<TReturnType, TGlobalsType>(string file,
             TGlobalsType globals)
         {
             if (!File.Exists(file))
@@ -63,14 +72,14 @@ namespace shared
             }
         }
 
-        private static Task<TReturnType> Run<TReturnType, TGlobalsType>(ScriptContext context, TGlobalsType globals)
+        private Task<TReturnType> Run<TReturnType, TGlobalsType>(ScriptContext context, TGlobalsType globals)
         {
             var compiler = GetScriptCompiler();
             var runner = new ScriptRunner(compiler, compiler.Logger, ScriptConsole.Default);
             return runner.Execute<TReturnType, TGlobalsType>(context, globals);
         }
 
-        private static ScriptCompiler GetScriptCompiler()
+        private ScriptCompiler GetScriptCompiler()
         {
             var logger = new ScriptLogger(ScriptConsole.Default.Error, LogVerbosityDebug);
             var runtimeDependencyResolver = new RuntimeDependencyResolver(type => ((level, message) =>

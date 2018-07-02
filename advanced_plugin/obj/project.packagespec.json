@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj": {
+            "projectPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,18 +30,6 @@
   "frameworks": {
     "netcoreapp2.1": {
       "dependencies": {
-        "MSTest.TestAdapter": {
-          "target": "Package",
-          "version": "[1.2.1, )"
-        },
-        "MSTest.TestFramework": {
-          "target": "Package",
-          "version": "[1.2.1, )"
-        },
-        "Microsoft.NET.Test.Sdk": {
-          "target": "Package",
-          "version": "[15.7.0, )"
-        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
