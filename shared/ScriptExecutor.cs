@@ -11,12 +11,12 @@ using Microsoft.CodeAnalysis.Text;
 
 namespace shared
 {
-    public static class ScriptExecutor2
+    public static class ScriptExecutor
     {
         private static bool LogVerbosityDebug = false;
         private static OptimizationLevel OptimizationLevel = Microsoft.CodeAnalysis.OptimizationLevel.Release;
 
-        static ScriptExecutor2()
+        static ScriptExecutor()
         {
             var isDebug = false;
             Debug.Assert(isDebug = true);
