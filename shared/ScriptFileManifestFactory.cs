@@ -6,8 +6,7 @@ namespace shared
     {
         public static ScriptFileManifest Create(string path)
         {
-            var content = File.ReadAllText(path);
-            return new ScriptFileManifest(content, path);
+            return new ScriptFileManifest(path);
         }
     }
 }

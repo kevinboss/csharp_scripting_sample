@@ -55,7 +55,7 @@ namespace shared
         {
             var sb = new StringBuilder();
             sb.AppendLine($"#line 1 \"{script.Path}\"");
-            sb.AppendLine(script.ScriptContent);
+            //sb.AppendLine(script.ScriptContent);
             var scriptContent = sb.ToString();
             return scriptContent;
         }

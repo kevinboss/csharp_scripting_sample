@@ -20,16 +20,13 @@ namespace advanced_konfiguration
                     PizzasOrdered = pizzas,
                     PricePerPizza = 5
                 };
+                var scriptFileManifest = ScriptFileManifestFactory.Create(FilePath);
+                var result = ScriptExecutor2.Execute<int, PizzaPriceInfo>(scriptFileManifest, pizzaPriceInfo);
 
-                var fileInfo = new FileInfo(FilePath);
-                if (fileInfo.Exists)
-                {
-                    var scriptFileManifest = ScriptFileManifestFactory.Create(fileInfo.FullName);
-                    var result = ScriptExecutor.Execute<int, PizzaPriceInfo>(scriptFileManifest, pizzaPriceInfo);
-
-                    Console.WriteLine($"Total cost for {pizzaPriceInfo.PizzasOrdered} pizzas is {result} CHF.");
-                }
+                Console.WriteLine($"Total cost for {pizzaPriceInfo.PizzasOrdered} pizzas is {result} CHF.");
             }
+
+            // ReSharper disable once FunctionNeverReturns
         }
     }
 
