@@ -1,109 +1,93 @@
-﻿using Microsoft.CodeAnalysis;
-using Microsoft.CodeAnalysis.CSharp.Scripting;
-using Microsoft.CodeAnalysis.Emit;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Text;
 using System.Threading.Tasks;
+using Dotnet.Script.Core;
+using Dotnet.Script.DependencyModel.Logging;
+using Dotnet.Script.DependencyModel.Runtime;
+using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.Text;
 
 namespace shared
 {
-    public static class ScriptExecutor
+    public static class ScriptExecutor2
     {
-        public static TReturnType Execute<TReturnType, TGlobalsType>(ScriptFileManifest script, TGlobalsType globals)
+        private static bool LogVerbosityDebug = false;
+        private static OptimizationLevel OptimizationLevel = Microsoft.CodeAnalysis.OptimizationLevel.Release;
+
+        static ScriptExecutor2()
         {
-            var scriptContent = GetScriptContent(script);
+            var isDebug = false;
+            Debug.Assert(isDebug = true);
 
-            var compilation = CreateCompilation<TGlobalsType>(scriptContent);
-
-            var rawAssemblyResult = RawAssembly(compilation);
-
-            var assembly = Assembly.Load(rawAssemblyResult.RawAssembly, rawAssemblyResult.RawSymbol);
-
-            var entryPoint = GetEntryPointFromAssembly(assembly);
-
-            var result = ExecuteEntryPoint(globals, entryPoint);
-
-            if (result is TReturnType castedResult)
+            if (!isDebug)
             {
-                return castedResult;
+                return;
             }
 
-            return default(TReturnType);
+            OptimizationLevel = OptimizationLevel.Debug;
         }
 
-        private static object ExecuteEntryPoint<TGlobalsType>(TGlobalsType globals, MethodBase method)
+        public static TReturnType Execute<TReturnType, TGlobalsType>(string scriptPath, TGlobalsType globals)
         {
-            var submissionStates = new object[2];
-            submissionStates[0] = globals;
-            var task = (method.Invoke(null, new object[] {submissionStates}) as Task<object>);
-            task?.Wait();
-            var taskResult = task?.Result;
-            return taskResult;
+            var task = RunScript<TReturnType, TGlobalsType>(scriptPath, globals);
+            task.Wait();
+            return task.Result;
         }
 
-        private static MethodInfo GetEntryPointFromAssembly(Assembly assembly)
+        private static async Task<TReturnType> RunScript<TReturnType, TGlobalsType>(string file,
+            TGlobalsType globals)
         {
-            var type = assembly.GetType("Submission#0");
-            var method = type.GetMethod("<Factory>", BindingFlags.Static | BindingFlags.Public);
-            return method;
-        }
-
-        private static string GetScriptContent(ScriptFileManifest script)
-        {
-            var sb = new StringBuilder();
-            sb.AppendLine($"#line 1 \"{script.Path}\"");
-            //sb.AppendLine(script.ScriptContent);
-            var scriptContent = sb.ToString();
-            return scriptContent;
-        }
-
-        private static RawAssemblyResult RawAssembly(Compilation compilation)
-        {
-            byte[] rawAssembly;
-            byte[] rawSymbol;
-            using (var assemblyStream = new MemoryStream())
+            if (!File.Exists(file))
             {
-                using (var symbolStream = new MemoryStream())
+                throw new Exception($"Couldn't find file '{file}'");
+            }
+
+            var absoluteFilePath = Path.IsPathRooted(file) ? file : Path.Combine(Directory.GetCurrentDirectory(), file);
+            var directory = Path.GetDirectoryName(absoluteFilePath);
+
+            using (var filestream =
+                new FileStream(absoluteFilePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+            {
+                var sourceText = SourceText.From(filestream);
+                var context = new ScriptContext(
+                    sourceText,
+                    directory,
+                    new List<string>(),
+                    absoluteFilePath,
+                    OptimizationLevel
+                );
+
+                return await Run<TReturnType, TGlobalsType>(context, globals);
+            }
+        }
+
+        private static Task<TReturnType> Run<TReturnType, TGlobalsType>(ScriptContext context, TGlobalsType globals)
+        {
+            var compiler = GetScriptCompiler();
+            var runner = new ScriptRunner(compiler, compiler.Logger, ScriptConsole.Default);
+            return runner.Execute<TReturnType, TGlobalsType>(context, globals);
+        }
+
+        private static ScriptCompiler GetScriptCompiler()
+        {
+            var logger = new ScriptLogger(ScriptConsole.Default.Error, LogVerbosityDebug);
+            var runtimeDependencyResolver = new RuntimeDependencyResolver(type => ((level, message) =>
+            {
+                switch (level)
                 {
-                    var emitOptions = new EmitOptions(false, DebugInformationFormat.PortablePdb);
-                    var result = compilation.Emit(assemblyStream, symbolStream, options: emitOptions);
-                    if (!result.Success)
-                    {
-                        var errors = string.Join(Environment.NewLine, result.Diagnostics.Select(x => x));
-                        Console.WriteLine(errors);
-                    }
-
-                    rawAssembly = assemblyStream.ToArray();
-                    rawSymbol = symbolStream.ToArray();
+                    case LogLevel.Debug:
+                        logger.Verbose(message);
+                        break;
+                    case LogLevel.Info:
+                        logger.Log(message);
+                        break;
                 }
-            }
+            }));
 
-            return new RawAssemblyResult
-            {
-                RawAssembly = rawAssembly,
-                RawSymbol = rawSymbol
-            };
-        }
-
-        private static Compilation CreateCompilation<TGlobalsType>(string scriptContent)
-        {
-            var options = Microsoft.CodeAnalysis.Scripting.ScriptOptions.Default;
-            var roslynScript = CSharpScript.Create(scriptContent, options, typeof(TGlobalsType));
-            var compilation = roslynScript.GetCompilation();
-
-            compilation = compilation.WithOptions(compilation.Options
-                .WithOptimizationLevel(OptimizationLevel.Debug)
-                .WithOutputKind(OutputKind.DynamicallyLinkedLibrary));
-            return compilation;
-        }
-
-        private class RawAssemblyResult
-        {
-            public byte[] RawAssembly;
-            public byte[] RawSymbol;
+            var compiler = new ScriptCompiler(logger, runtimeDependencyResolver);
+            return compiler;
         }
     }
 }

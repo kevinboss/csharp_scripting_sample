@@ -2,38 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb59ba1-86aa-4f15-9c13-5a81111ea284" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../shared/ScriptExecutor2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/ScriptExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/ScriptExecutor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/ScriptFileManifest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/ScriptFileManifest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/ScriptExecutor2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/ScriptExecutor.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/shared.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/shared.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,44 +26,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ScriptExecutor2.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor2.cs">
+      <file leaf-file-name="ScriptExecutor.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
-                <marker date="1530553516582" expanded="true" signature="6:301" ph="..." />
-                <marker date="1530553516582" expanded="true" signature="319:3198" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="361:3196" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="567:799" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="679:731" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="918:1078" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="1210:2111" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="1256:1353" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="1684:2101" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="2229:2470" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="2529:3190" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="2733:3065" ph="{...}" />
-                <marker date="1530553516582" expanded="true" signature="2778:3051" ph="{...}" />
+                <marker date="1530557405016" expanded="false" signature="6:301" ph="..." />
+                <marker date="1530557405016" expanded="true" signature="319:3187" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="360:3185" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="565:797" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="677:729" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="908:1067" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="1199:2100" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="1245:1342" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="1673:2090" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="2218:2459" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="2518:3179" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="2722:3054" ph="{...}" />
+                <marker date="1530557405016" expanded="true" signature="2767:3040" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution2.csx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" lean-forward="true" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.csx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution.csx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -89,16 +53,16 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+            <state relative-caret-position="391">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
-                <marker date="1530553462939" expanded="false" signature="6:44" ph="..." />
-                <marker date="1530553462939" expanded="true" signature="78:1102" ph="{...}" />
-                <marker date="1530553462939" expanded="true" signature="98:987" ph="{...}" />
-                <marker date="1530553462939" expanded="true" signature="224:981" ph="{...}" />
-                <marker date="1530553462939" expanded="true" signature="259:911" ph="{...}" />
-                <marker date="1530553462939" expanded="true" signature="489:590" ph="{...}" />
-                <marker date="1530553462939" expanded="true" signature="1020:1100" ph="{...}" />
+                <marker date="1530557405175" expanded="false" signature="6:44" ph="..." />
+                <marker date="1530557405175" expanded="true" signature="78:1006" ph="{...}" />
+                <marker date="1530557405175" expanded="true" signature="98:891" ph="{...}" />
+                <marker date="1530557405175" expanded="true" signature="224:885" ph="{...}" />
+                <marker date="1530557405175" expanded="true" signature="259:815" ph="{...}" />
+                <marker date="1530557405175" expanded="true" signature="489:590" ph="{...}" />
+                <marker date="1530557405175" expanded="true" signature="924:1004" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -117,9 +81,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85EA1AE0-C029-4425-8581-E00A2D8E1C56/be/48863148/ScriptContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../shared/ScriptFileManifest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -128,10 +91,10 @@
         <option value="$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx" />
         <option value="$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" />
         <option value="$PROJECT_DIR$/../shared/ScriptFileManifest.cs" />
-        <option value="$PROJECT_DIR$/../shared/ScriptExecutor.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
-        <option value="$PROJECT_DIR$/../shared/ScriptExecutor2.cs" />
         <option value="$PROJECT_DIR$/PizzaPriceCalculator/Solution.csx" />
+        <option value="$PROJECT_DIR$/../shared/ScriptExecutor2.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/../shared/ScriptExecutor.cs" />
       </list>
     </option>
   </component>
@@ -233,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530475583237</updated>
       <workItem from="1530475589001" duration="2450000" />
-      <workItem from="1530549639862" duration="2180000" />
+      <workItem from="1530549639862" duration="2513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4630000" />
+    <option name="totallyTimeSpent" value="4963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,17 +221,17 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003427" side_tool="true" weight="0.37898466" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" weight="0.37898466" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.37898466" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3293979" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25702536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25702536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42502952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42502952" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,68 +285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding>
-            <marker date="1530552699576" expanded="false" signature="6:235" ph="..." />
-            <marker date="1530552699576" expanded="true" signature="253:3846" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="294:3844" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="418:1034" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="917:982" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="1138:1446" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="1526:1727" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="1802:2053" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="2132:3112" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="2264:2950" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="2340:2936" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="2600:2801" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="3005:3101" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="3202:3701" ph="{...}" />
-            <marker date="1530552699576" expanded="true" signature="3742:3838" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
-          <folding>
-            <marker date="1530553462939" expanded="false" signature="6:44" ph="..." />
-            <marker date="1530553462939" expanded="true" signature="78:1102" ph="{...}" />
-            <marker date="1530553462939" expanded="true" signature="98:987" ph="{...}" />
-            <marker date="1530553462939" expanded="true" signature="224:981" ph="{...}" />
-            <marker date="1530553462939" expanded="true" signature="259:911" ph="{...}" />
-            <marker date="1530553462939" expanded="true" signature="489:590" ph="{...}" />
-            <marker date="1530553462939" expanded="true" signature="1020:1100" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <marker date="1530553516582" expanded="true" signature="6:301" ph="..." />
-            <marker date="1530553516582" expanded="true" signature="319:3198" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="361:3196" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="567:799" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="679:731" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="918:1078" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="1210:2111" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="1256:1353" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="1684:2101" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="2229:2470" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="2529:3190" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="2733:3065" ph="{...}" />
-            <marker date="1530553516582" expanded="true" signature="2778:3051" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -391,6 +292,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1530557405175" expanded="false" signature="6:44" ph="..." />
+            <marker date="1530557405175" expanded="true" signature="78:1006" ph="{...}" />
+            <marker date="1530557405175" expanded="true" signature="98:891" ph="{...}" />
+            <marker date="1530557405175" expanded="true" signature="224:885" ph="{...}" />
+            <marker date="1530557405175" expanded="true" signature="259:815" ph="{...}" />
+            <marker date="1530557405175" expanded="true" signature="489:590" ph="{...}" />
+            <marker date="1530557405175" expanded="true" signature="924:1004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <marker date="1530557405016" expanded="false" signature="6:301" ph="..." />
+            <marker date="1530557405016" expanded="true" signature="319:3187" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="360:3185" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="565:797" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="677:729" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="908:1067" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="1199:2100" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="1245:1342" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="1673:2090" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="2218:2459" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="2518:3179" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="2722:3054" ph="{...}" />
+            <marker date="1530557405016" expanded="true" signature="2767:3040" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

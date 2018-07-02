@@ -33,7 +33,6 @@
         </e>
       </e>
       <e p="ScriptExecutor.cs" t="Include" />
-      <e p="ScriptExecutor2.cs" t="Include" />
       <e p="ScriptFileManifest.cs" t="Include" />
       <e p="ScriptFileManifestFactory.cs" t="Include" />
       <e p="shared.csproj" t="IncludeRecursive" />
