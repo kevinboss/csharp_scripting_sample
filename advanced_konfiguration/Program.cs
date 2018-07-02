@@ -20,7 +20,7 @@ namespace advanced_konfiguration
                     PizzasOrdered = pizzas,
                     PricePerPizza = 5
                 };
-                var result = ScriptExecutor.Execute<int, PizzaPriceInfo>(FilePath, pizzaPriceInfo);
+                var result = new ScriptExecutor().Execute<int, PizzaPriceInfo>(FilePath, pizzaPriceInfo);
 
                 Console.WriteLine($"Total cost for {pizzaPriceInfo.PizzasOrdered} pizzas is {result} CHF.");
             }

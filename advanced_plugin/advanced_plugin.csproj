@@ -6,9 +6,4 @@
   <ItemGroup>
     <ProjectReference Include="..\shared\shared.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="shared_with_script, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>shared_with_script\bin\Debug\netcoreapp2.1\shared_with_script.dll</HintPath>
-    </Reference>
-  </ItemGroup>
 </Project>
