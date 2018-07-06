@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="D:\JetBrains\Transient\ReSharperPlatformVs12\v08\SolutionCaches\_basic_roslyn.1384874819.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\csharp_scripting_sample\basic_roslyn" t="IncludeRecursive">
+      <e p="basic_roslyn.csproj" t="IncludeRecursive" />
+      <e p="basic_roslyn.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="basic_roslyn.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>

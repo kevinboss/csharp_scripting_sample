@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\basic_roslyn\\basic_roslyn.csproj",
+    "projectUniqueName": "D:\\Repos\\csharp_scripting_sample\\basic_roslyn\\basic_roslyn.csproj",
     "projectName": "basic_roslyn",
-    "projectPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\basic_roslyn\\basic_roslyn.csproj",
-    "outputPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\basic_roslyn\\obj\\",
+    "projectPath": "D:\\Repos\\csharp_scripting_sample\\basic_roslyn\\basic_roslyn.csproj",
+    "outputPath": "D:\\Repos\\csharp_scripting_sample\\basic_roslyn\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

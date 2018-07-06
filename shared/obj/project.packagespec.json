@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
+    "projectUniqueName": "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
     "projectName": "shared",
-    "projectPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
-    "outputPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\obj\\",
+    "projectPath": "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
+    "outputPath": "D:\\Repos\\csharp_scripting_sample\\shared\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

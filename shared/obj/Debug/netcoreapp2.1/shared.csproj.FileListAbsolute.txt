@@ -7,3 +7,12 @@ C:\Users\kevin\Repos\csharp_scripting_sample\shared\bin\Debug\netcoreapp2.1\shar
 C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.dll
 C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.pdb
 C:\Users\kevin\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.csprojAssemblyReference.cache
+D:\Repos\csharp_scripting_sample\shared\bin\Debug\netcoreapp2.1\shared.deps.json
+D:\Repos\csharp_scripting_sample\shared\bin\Debug\netcoreapp2.1\shared.dll
+D:\Repos\csharp_scripting_sample\shared\bin\Debug\netcoreapp2.1\shared.pdb
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.csprojAssemblyReference.cache
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.csproj.CoreCompileInputs.cache
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.AssemblyInfoInputs.cache
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.AssemblyInfo.cs
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.dll
+D:\Repos\csharp_scripting_sample\shared\obj\Debug\netcoreapp2.1\shared.pdb

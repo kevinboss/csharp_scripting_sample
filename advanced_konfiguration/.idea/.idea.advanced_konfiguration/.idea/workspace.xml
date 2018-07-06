@@ -4,33 +4,19 @@
     <list default="true" id="edb59ba1-86aa-4f15-9c13-5a81111ea284" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_konfiguration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/advanced_konfiguration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/advanced_konfiguration.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85EA1AE0-C029-4425-8581-E00A2D8E1C56/be/48863148/ScriptContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../shared/obj/Release/netcoreapp2.1/shared.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85EA1AE0-C029-4425-8581-E00A2D8E1C56/be/48863148/ScriptContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution2.csx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PizzaPriceCalculator/Solution.csx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,9 +67,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="1149" />
-    <option name="height" value="1455" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -93,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -101,29 +87,19 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="advanced_konfiguration" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="advanced_konfiguration (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="advanced_konfiguration" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="PizzaPriceCalculator" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../advanced_plugin/advanced_plugin.sln" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../advanced_roslyn/advanced_roslyn.csproj" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunDashboard">
@@ -166,11 +142,12 @@
       <updated>1530475583237</updated>
       <workItem from="1530475589001" duration="2450000" />
       <workItem from="1530549639862" duration="3976000" />
+      <workItem from="1530857583248" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6426000" />
+    <option name="totallyTimeSpent" value="6516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,7 +159,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32967785" />
@@ -193,11 +170,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3293979" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25702536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2595949" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42502952" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -208,6 +183,8 @@
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3293979" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,21 +241,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <marker date="1530557405016" expanded="false" signature="6:301" ph="..." />
-            <marker date="1530557405016" expanded="true" signature="319:3187" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="360:3185" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="565:797" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="677:729" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="908:1067" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="1199:2100" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="1245:1342" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="1673:2090" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="2218:2459" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="2518:3179" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="2722:3054" ph="{...}" />
-            <marker date="1530557405016" expanded="true" signature="2767:3040" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -286,15 +248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <marker date="1530557405175" expanded="false" signature="6:44" ph="..." />
-            <marker date="1530557405175" expanded="true" signature="78:1006" ph="{...}" />
-            <marker date="1530557405175" expanded="true" signature="98:891" ph="{...}" />
-            <marker date="1530557405175" expanded="true" signature="224:885" ph="{...}" />
-            <marker date="1530557405175" expanded="true" signature="259:815" ph="{...}" />
-            <marker date="1530557405175" expanded="true" signature="489:590" ph="{...}" />
-            <marker date="1530557405175" expanded="true" signature="924:1004" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>

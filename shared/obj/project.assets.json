@@ -5500,23 +5500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {},
+    "C:\\Users\\KEBO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
+      "projectUniqueName": "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
       "projectName": "shared",
-      "projectPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\obj\\",
+      "projectPath": "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj",
+      "packagesPath": "C:\\Users\\KEBO\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\csharp_scripting_sample\\shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

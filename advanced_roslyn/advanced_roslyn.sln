@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advanced_roslyn", "advanced_roslyn.csproj", "{799F489E-31FD-49AE-8271-C8A71145B1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shared", "..\shared\shared.csproj", "{3B7F70B9-BA9B-4E1B-A8E0-D5AAC0F28206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799F489E-31FD-49AE-8271-C8A71145B1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799F489E-31FD-49AE-8271-C8A71145B1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799F489E-31FD-49AE-8271-C8A71145B1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799F489E-31FD-49AE-8271-C8A71145B1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7F70B9-BA9B-4E1B-A8E0-D5AAC0F28206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7F70B9-BA9B-4E1B-A8E0-D5AAC0F28206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7F70B9-BA9B-4E1B-A8E0-D5AAC0F28206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7F70B9-BA9B-4E1B-A8E0-D5AAC0F28206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

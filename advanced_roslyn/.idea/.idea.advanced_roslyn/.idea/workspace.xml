@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="089201dd-c8c9-4700-8c92-01c937e3cfee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.advanced_roslyn/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.advanced_roslyn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld.csx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_roslyn/.idea/.idea.basic_roslyn/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/.idea/.idea.advanced_konfiguration/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/.idea/.idea.advanced_konfiguration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/advanced_konfiguration.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/advanced_konfiguration.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/advanced_konfiguration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/advanced_konfiguration.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_konfiguration/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_konfiguration/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/.idea/.idea.advanced_plugin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/Debug/netcoreapp2.1/advanced_plugin.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/advanced_plugin.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_plugin/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced_plugin/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/Debug/netcoreapp2.1/basic_roslyn.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/basic_roslyn.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_roslyn/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_roslyn/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/bin/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/Debug/netcoreapp2.1/shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../shared/obj/shared.csproj.nuget.g.props" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/MyScriptExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../advanced_konfiguration/obj/Debug/netcoreapp2.1/advanced_konfiguration.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../shared/ScriptFileManifest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/helloworld.csx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/helloworld.csx.cs" />
+        <option value="$PROJECT_DIR$/../shared/ScriptExecutor2.cs" />
+        <option value="$PROJECT_DIR$/../shared/ScriptFileManifest.cs" />
+        <option value="$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="251" />
+    <option name="y" value="45" />
+    <option name="width" value="1494" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="advanced_roslyn (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="advanced_roslyn (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="advanced_roslyn" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="advanced_roslyn (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shared/shared.csproj" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/advanced_roslyn.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/advanced_roslyn.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089201dd-c8c9-4700-8c92-01c937e3cfee" name="Default" comment="" />
+      <created>1530857672783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530857672783</updated>
+      <workItem from="1530857674306" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="780000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="251" y="45" width="1494" height="972" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297619" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33054394" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36666667" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../shared/ScriptFileManifest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1530858201379" expanded="true" signature="16:296" ph="{...}" />
+            <marker date="1530858201379" expanded="true" signature="54:294" ph="{...}" />
+            <marker date="1530858201379" expanded="true" signature="125:207" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shared/ScriptFileManifestFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <marker date="1530858264218" expanded="true" signature="34:244" ph="{...}" />
+            <marker date="1530858264218" expanded="true" signature="83:242" ph="{...}" />
+            <marker date="1530858264218" expanded="true" signature="141:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld.csx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shared/MyScriptExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <marker date="1530858362605" expanded="false" signature="6:235" ph="..." />
+            <marker date="1530858362605" expanded="true" signature="253:3846" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="296:3844" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="420:1036" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="919:984" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="1140:1448" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="1528:1729" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="1804:2053" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="2132:3112" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="2264:2950" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="2340:2936" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="2600:2801" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="3005:3101" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="3202:3701" ph="{...}" />
+            <marker date="1530858362605" expanded="true" signature="3742:3838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <marker date="1530858363299" expanded="true" signature="6:27" ph="..." />
+            <marker date="1530858363299" expanded="true" signature="54:483" ph="{...}" />
+            <marker date="1530858363299" expanded="true" signature="71:420" ph="{...}" />
+            <marker date="1530858363299" expanded="true" signature="167:417" ph="{...}" />
+            <marker date="1530858363299" expanded="true" signature="443:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shared/ScriptExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <marker date="1530857521670" expanded="false" signature="6:373" ph="..." />
+            <marker date="1530857521670" expanded="true" signature="391:3440" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="425:3438" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="688:920" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="800:852" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="1024:1183" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="1258:1341" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="1466:2367" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="1512:1609" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="1940:2357" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="2478:2719" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="2771:3432" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="2975:3307" ph="{...}" />
+            <marker date="1530857521670" expanded="true" signature="3020:3293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
