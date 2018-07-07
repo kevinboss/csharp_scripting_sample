@@ -5518,23 +5518,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KEBO\\.nuget\\packages\\": {},
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\advanced_konfiguration.csproj",
+      "projectUniqueName": "c:\\Users\\kevin\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\advanced_konfiguration.csproj",
       "projectName": "advanced_konfiguration",
-      "projectPath": "D:\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\advanced_konfiguration.csproj",
-      "packagesPath": "C:\\Users\\KEBO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\obj\\",
+      "projectPath": "c:\\Users\\kevin\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\advanced_konfiguration.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\kevin\\Repos\\csharp_scripting_sample\\advanced_konfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5547,8 +5547,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj": {
-              "projectPath": "D:\\Repos\\csharp_scripting_sample\\shared\\shared.csproj"
+            "c:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj": {
+              "projectPath": "c:\\Users\\kevin\\Repos\\csharp_scripting_sample\\shared\\shared.csproj"
             }
           }
         }
@@ -5563,7 +5563,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
