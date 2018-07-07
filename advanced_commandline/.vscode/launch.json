@@ -2,6 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "console": "integratedTerminal",
             "name": ".NET Script Debug",
             "type": "coreclr",
             "request": "launch",
@@ -9,7 +10,7 @@
             "args": [
               "exec", 
               "./tools/dotnet-script/dotnet-script.dll", 
-              "${file}"
+              "main.csx"
             ],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": true
